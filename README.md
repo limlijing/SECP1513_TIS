@@ -28,3 +28,5 @@ Overall, I learned that combining strategic coordination with application-focuse
 Design thinking impacts my goals as it not only improved my communication skills but also improved my critical thinking skills, collaboration with team members and problem-solving skills. For example, I had analyzed the problems from the students and discuss with my team members to solve the problems. I also try to become more extroverted to communicate with stranger to do the interview session.   
 [Report](https://github.com/limlijing/SECP1513_TIS/blob/main/DESIGNTHINGKINGGROUP7.pdf)
 
+# Assignment 4
+

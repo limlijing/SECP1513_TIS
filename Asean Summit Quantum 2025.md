@@ -21,13 +21,9 @@ Key agendas included regional collaboration, awareness of quantum technologies, 
 
 ## Reflection
 
-On December 11, 2025, I attended the ASEAN Quantum Summit at Universiti Teknologi Malaysia. This experience gave me a clearer understanding of how quantum technology can transform everyday life and support the development of regions like Johor into future technology hubs.
+On December 11, 2025, the ASEAN Quantum Summit at Universiti Teknologi Malaysia was attended. Through this experience, a clearer understanding was gained regarding how everyday life can be transformed by quantum technology and how the development of regions like Johor into future technology hubs can be supported.
 
-The opening talk by **Prof. Dr. Masahiro Kitagawa (Osaka University)** introduced the fundamentals of quantum computing, particularly the concept of qubits and superposition. Despite current challenges such as error rates and scalability, the wide-ranging applications—from chemistry to cybersecurity—highlight the transformative potential of this field.
-
-Subsequent talks discussed Singapore’s national quantum strategy, coordinated through the **National Quantum Office**, which integrates efforts in computing, communications, and sensing. This structured approach avoids fragmentation and strengthens research–industry linkages, enabling real-world applications such as GPS-free navigation and precision medical imaging.
-
-Overall, the summit demonstrated that strategic coordination combined with application-driven research is essential for smaller nations to develop competitiveness in advanced technologies like quantum science.
+The fundamentals of quantum computing, particularly the concepts of qubits and superposition, were introduced in an opening talk by Prof. Dr. Masahiro Kitagawa (Osaka University). Despite current challenges such as error rates and scalability, the transformative potential of the field was highlighted through wide-ranging applications spanning from chemistry to cybersecurity. Singapore’s national quantum strategy was discussed in subsequent talks; this strategy is coordinated through the National Quantum Office, where efforts in computing, communications, and sensing are integrated. Fragmentation is avoided and research–industry linkages are strengthened by this structured approach, allowing real-world applications—such as GPS-free navigation and precision medical imaging—to be enabled. Overall, it was demonstrated by the summit that strategic coordination, combined with application-driven research, is required for competitiveness in advanced technologies like quantum science to be developed by smaller nations.
 
 ## Photo
 ![VideoCapture_20251213-154955](https://github.com/user-attachments/assets/e89877df-2fff-4d78-ad4c-3fafb778cf03)
